@@ -1,0 +1,14 @@
+C:\Users\losad\Reto3\bin\Debug\net7.0\Reto3.exe
+C:\Users\losad\Reto3\bin\Debug\net7.0\Reto3.deps.json
+C:\Users\losad\Reto3\bin\Debug\net7.0\Reto3.runtimeconfig.json
+C:\Users\losad\Reto3\bin\Debug\net7.0\Reto3.dll
+C:\Users\losad\Reto3\bin\Debug\net7.0\Reto3.pdb
+C:\Users\losad\Reto3\obj\Debug\net7.0\Reto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losad\Reto3\obj\Debug\net7.0\Reto3.AssemblyInfoInputs.cache
+C:\Users\losad\Reto3\obj\Debug\net7.0\Reto3.AssemblyInfo.cs
+C:\Users\losad\Reto3\obj\Debug\net7.0\Reto3.csproj.CoreCompileInputs.cache
+C:\Users\losad\Reto3\obj\Debug\net7.0\Reto3.dll
+C:\Users\losad\Reto3\obj\Debug\net7.0\refint\Reto3.dll
+C:\Users\losad\Reto3\obj\Debug\net7.0\Reto3.pdb
+C:\Users\losad\Reto3\obj\Debug\net7.0\Reto3.genruntimeconfig.cache
+C:\Users\losad\Reto3\obj\Debug\net7.0\ref\Reto3.dll
